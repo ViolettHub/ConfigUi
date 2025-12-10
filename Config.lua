@@ -1,5 +1,5 @@
 return {
-    Background = "https://media.discordapp.net/attachments/1443353629095624825/1448042910355554367/y4rxlrrffxef1.jpeg?ex=693a7b4d&is=693929cd&hm=bdfe750c52fd1cce6b04fcf8dd3e67238b24c0806377e0e20d32a6d4b2f1135d&=&format=webp&width=601&height=930",
+    Background = "https://media.discordapp.net/attachments/1443353629095624825/1448039212707221615/AAAiew.JPG?ex=693a77db&is=6939265b&hm=98d6379c5233b8523eec07f71e9ed6d8103a8cd4de5503d48c5ec8d1a9dbb544&=&format=webp&width=680&height=513",
     Theme = "Default",
     Title = "Mai Hub",
     Author = "Luna",
