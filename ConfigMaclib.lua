@@ -4,7 +4,7 @@ return {
     Title = "Mai Hub",
     Author = "Luna",
     SetBackgroundImageTransparency = 0.7,
-    Discord = "https://discord.com/invite/MArH2ZJSt8",
+    Discord = "discord.com/invite/MArH2ZJSt8",
     Key = "KeyLess",
     Icon = "rbxassetid://106753414503750",
     Site = "maihub.discloud.app",
